@@ -18,12 +18,12 @@ Este proyecto es una solución empresarial desarrollada en **Excel VBA** diseña
 ### Panel de Control en Excel
 La herramienta cuenta con una interfaz intuitiva para el usuario final, permitiendo la configuración de variables y el lanzamiento de la macro mediante un único panel interactivo.
 
-![Interfaz del Email Sender](Screenshots/interface.png)
+![Interfaz del Email Sender](Screenshots/Buttons.png)
 
 ### Integración Nativa con Outlook
 Los correos son inyectados directamente en la cola de procesamiento de Outlook respetando el formato HTML predefinido para mantener la identidad corporativa.
 
-![Demostración de Envío en Outlook](Screenshots/outlook_demo.png)
+![Demostración de Envío en Outlook](Screenshots/Test_email.png)
 
 ---
 
