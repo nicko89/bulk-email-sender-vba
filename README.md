@@ -23,7 +23,7 @@ La herramienta cuenta con una interfaz intuitiva para el usuario final, permitie
 ### Integración Nativa con Outlook
 Los correos son inyectados directamente en la cola de procesamiento de Outlook respetando el formato HTML predefinido para mantener la identidad corporativa.
 
-![Demostración de Envío en Outlook](Screenshots/Test_email.png)
+![Demostración de Envío en Outlook](Screenshots/Test email.png)
 
 ---
 
